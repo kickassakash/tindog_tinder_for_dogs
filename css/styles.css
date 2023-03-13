@@ -1,0 +1,141 @@
+#title{
+    background-color: #97DEFF;
+    height:800px;
+}
+
+/* .white-box{
+    background-color:white;
+    height:300px;
+    width:100%;
+    position:absolute;
+    z-index:1;
+    top:760px;
+} */
+/* body{
+    /* font-family:"montserrat" */
+ */
+.mai{
+    font-family: "montserrat-bold";
+    font-weight:bold;
+    padding-bottom:3%;
+}
+
+.container-fluid{
+    padding:3% 15%;
+}
+.nav-link{
+    color:aliceblue;
+    font-size:1.5rem;
+    font-weight:lighter;
+}
+.nav-item{
+    padding-left:18px;
+    padding-right:18px;
+}
+.a{
+    font-family: 'Sacramento', cursive;
+    font-size :5rem;
+    padding-bottom:2.5rem;
+}
+
+.phone-img{
+    width:65%;
+    transform: rotate(25deg);
+    /* margin: top 50px; */
+    margin-left:50px;
+    /* height:70px; */
+}
+
+
+.check{
+    size:2rem;
+}
+
+/* .aa{
+    --fa-counter-background-color:red;
+} */
+
+.fa-solid{
+    margin-top:50px;
+    margin-bottom:15px;
+    color:red;
+    opacity:0.5;
+}
+.fa-solid:hover{
+    opacity:1;
+}
+.padding{
+    padding:50px;
+}
+h3{
+    font-family: "montserrat-bold";
+    font-weight:800;
+}
+p{
+    color:#8f8f8f;
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size:2.5rem;
+    line-height:1.5;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size:2.5rem;
+    line-height:1.5;
+}
+#testimonials{
+    background-color:#62CDFF;
+    
+    text-align:center;
+    /* font-family: */
+}
+.carousel-item{
+    padding:7% 15%;
+}
+
+#features{
+    padding-bottom:100px;
+    background-color: #fff;
+}
+.dog-img{
+    width:15%;
+    border-radius: 100%;
+    padding-right:30px;
+    padding-top:20px;
+}
+
+#press{
+    background-color: #62CDFF;
+    text-align:center;
+    padding-bottom:3%;
+
+}
+.press-logo{
+    width:15%;
+    margin:20px 30px 60px;
+}
+.sub-card{
+    padding-left:10px;
+    padding-right:10px;
+}
+#pricing{
+    padding:100px;
+}
+
+.asdf{
+    position:relative;
+    z-index: 1;
+}
+#loll{
+    background-color:#97DEFF;
+}
+@media (max-width:1028px){
+
+    .phone-img{
+        padding-top:50px;
+    }
+    /* .asdf{
+        position:static;
+    } */
+}
