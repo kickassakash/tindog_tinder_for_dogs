@@ -64,8 +64,15 @@
 .fa-solid:hover{
     opacity:1;
 }
+.l{
+    padding:1%;
+}
 .padding{
     padding:50px;
+    padding-top:100px;
+    font-family:"montserrat-black";
+    font-weight:900;
+    font-size:3.5rem;
 }
 h3{
     font-family: "montserrat-bold";
